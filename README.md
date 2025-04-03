@@ -1,9 +1,9 @@
 # playwright
 
-**Author:** hjlarry
-**Version:** 0.0.1
-**Type:** tool
-**Repo&Issue:** [https://github.com/hjlarry/dify-plugin-playwright](https://github.com/hjlarry/dify-plugin-playwright)
+**Author:** hjlarry  
+**Version:** 0.0.1  
+**Type:** tool  
+**Repo&Issue:** [https://github.com/hjlarry/dify-plugin-playwright](https://github.com/hjlarry/dify-plugin-playwright)  
 
 A tool can be used to automate the browser with playwright script.
 
