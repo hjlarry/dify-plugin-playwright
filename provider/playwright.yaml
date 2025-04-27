@@ -26,3 +26,22 @@ credentials_for_provider:
       zh_Hans: 请输入Playwright URI
     required: true
     type: secret-input
+  uri_type:
+    help:
+      en_US: Choose to use ws or cdp to connect
+      zh_Hans: 选择使用 ws 还是 cdp 连接
+    label:
+      en_US: URI Type
+      zh_Hans: URI 类型
+    required: true
+    type: select
+    options:
+      - value: ws
+        label:
+          en_US: ws
+          zh_Hans: ws
+      - value: cdp
+        label:
+          en_US: cdp
+          zh_Hans: cdp
+    default: ws
